@@ -1,0 +1,11 @@
+USER view11509 11509 view_11509@hotmail.com 3
+USER kampoo saa123456 ausuan@hotmail.com 6
+USER pompam shirako pompam@hotmail.com 9
+USER ployly 5555 ploy@hotmail.com 4
+USER home 123456 home@hotmail.com 14
+MOVIE narnia 16
+MOVIE asdasds 8
+MOVIE eiei 3
+REVIEW view narnia 5 19 eieieieieieieieieieieieii
+REVIEW pompam eiei 4 22 ayeahhhhhhhhhhhhhhhhhhhhh
+REVIEW kampoo baka 5 31 baaaaaakaaaaaaaaaaaaaaaaa
